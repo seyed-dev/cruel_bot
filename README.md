@@ -47,3 +47,12 @@ cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; cd .. ; ./run
 
 ###set owner
 >!setowner  --by reply or id
+
+
+<h1>نوشته شده توسط اعضای تیم کرول</h1>
+<h2>برنامه نویس اصلی</h2> : [😍● ოɨℓﾑの ●😍](https://telegram.me/my_Iove_fatemeh)
+<h3>با تشکر از</h3> :
+[M.KH](https://telegram.me/IT_MKH)
+[ค๓เг](https://telegram.me/This_Is_Amir)
+[Negative](https://telegram.me/Negative)
+[Haydra #Boy](https://telegram.me/HaydraBoy)
