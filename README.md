@@ -60,4 +60,10 @@ cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; cd .. ; ./run
 
 [Haydra #Boy](https://telegram.me/HaydraBoy)
 
+｡∵ * ❁ ๓คђlค ❁* ∵ ｡
 
+🇸.🇴.🇱.🇹.🇦.🇳
+
+ოძ.ɾεzმ
+
+☜☆☞zคђгค☜☆☞
