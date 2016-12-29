@@ -12,7 +12,7 @@ git clone https://github.com/CRUELTM/cruel_bot.git
 cd cruel_bot
 
 
-cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; cd .. ; ./run
+chmod 777 ./run ; cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; chmod 777 ./telegram-cli-1124; cd .. ; ./run
 
 
 ```
