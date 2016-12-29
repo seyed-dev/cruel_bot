@@ -6,7 +6,7 @@ The best source based on New tg-cli
 ```sh
 
 
-git clone https://github.com/mohamadkhoshnava/cruel_bot.git
+git clone https://github.com/CRUELTM/cruel_bot.git
 
 
 cd cruel_bot
