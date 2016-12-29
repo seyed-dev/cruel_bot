@@ -27,11 +27,15 @@ cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; cd .. ; ./run
 [CRUEL TEAM | کانال تیم کرول](https://telegram.me/cruel_team)
 
 #دستورات
+##locks
 >!lock (links,edit,fwd,username,spam)
 >>!lock links
+##mutes
 >!mute (all,photo,document,gif,audio,voice,video)
 >>!mute all
+##settings
 >!settings
+##set promote and owner
 >!promote  --by reply or id
 >!demote  --by reply or id
 >!setowner  --by reply or id
