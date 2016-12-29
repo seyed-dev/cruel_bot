@@ -26,3 +26,12 @@ cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; cd .. ; ./run
 * برای دریافت جدید ترین پلاگین ها میتوانید به کانال تیم کرول مراجعه کنید
 [CRUEL TEAM | کانال تیم کرول](https://telegram.me/cruel_team)
 
+#دستورات
+>!lock (links,edit,fwd,username,spam)
+>>!lock links
+>!mute (all,photo,document,gif,audio,voice,video)
+>>!mute all
+>!settings
+>!promote  --by reply or id
+>!demote  --by reply or id
+>!setowner  --by reply or id
