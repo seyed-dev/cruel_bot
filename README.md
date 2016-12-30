@@ -1,23 +1,33 @@
-# cruel_bot
+# CRUEL Bot
 The best source based on New tg-cli
+telegram bot
 
 آموزش نصب
 
 ```sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev ppa-purge python3-pip python3-dev
 
+sudo pip3 install redis
+sudo service redis-server restart
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+sudo ppa-purge
 
 git clone https://github.com/CRUELTM/cruel_bot.git
 
 
 cd cruel_bot
-
-
-chmod 777 ./run ; cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; chmod 777 ./telegram-cli-1124; cd .. ; ./run
-
+chmod +x install
+./install
 
 ```
 بعد از این کار از شما شماره تلفن میخواهد
 بعد وارد نمودن شماره ربات لانچ خواهد شد
+در فایل
+config.lua
+خود را سودوی ربات کنید
 
 * نوشته شده بر اساس تی جی جدید
 * قابلیت افزودن پلاگین
