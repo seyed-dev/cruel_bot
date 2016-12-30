@@ -1,7 +1,10 @@
 do local _ = {
   enabled_plugins = {
-    "gm",
-"locks"
+    "addrem",
+    "bc",
+    "lock",
+    "msg_checks",
+    "pin"
   },
   group  = {
     data = "bot/group.json"
