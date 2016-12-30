@@ -73,7 +73,7 @@ local types = {
   ["video/x-msvideo"] = "avi"
 }
 
--- Returns the common file extension from a content-type
+-- Returns the common file  extension from a content-type
 function mimetype.get_mime_extension(content_type)
   return types[content_type]
 end
