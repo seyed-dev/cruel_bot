@@ -1,4 +1,6 @@
 local function run(msg, matches)
+local addgroup = group[tostring(msg.chat_id)]
+if addgroup then
 if is_momod(msg) or is_robot(msg) then
 return false
 else
@@ -82,6 +84,7 @@ local group_username_lock = group[tostring(msg.chat_id)]['settings']['lock_usern
 local is_username_msg = msg.text:match("@")
 if group_username_lock == 'yes' and is_username_msg then
 tg.deleteMessages(msg.chat_id_, {[0] = msg.id_ })
+end
 end
 end
 end
