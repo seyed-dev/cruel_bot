@@ -1,1 +1,1 @@
-chmod +x run ; cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; chmod +x telegram-cli-1124; cd .. ; mv file files ; cruel
+chmod +x run ; cd tg ; wget https://valtman.name/files/telegram-cli-1124 ; chmod +x telegram-cli-1124; cd .. ; mv file files ; ./run
