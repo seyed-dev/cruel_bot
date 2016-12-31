@@ -57,6 +57,7 @@ chmod +x install
 <h1>توسعه توسط تیم تینک</h1>
 #Developers :
 [#SikTirMirza(Amu Ali)](https://telegram.me/ShopBuy)
+<br>
 [#Mr_Live](https://telegram.me/Mr_Live)
 
 Thanks For Read :D
