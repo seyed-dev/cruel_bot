@@ -1,5 +1,5 @@
 local function run(msg, matches)
-
+--@ThinkTeam
   if matches[1] == 'addword' and is_sudo(msg) then
     redis:set('filter'..msg.chat_id_,matches[2])
     tg.sendMessage(msg.chat_id_, 0, 0,  'Word Has Been Blocked', 0)
@@ -13,6 +13,7 @@ local function run(msg, matches)
     tg.deleteMessages(msg.chat_id_, {[0] = msg.id_ })
   end
 end
+--@ShopBuy
 return {
   patterns = {
     "^[#!/](addword) (.*)$",
@@ -21,3 +22,4 @@ return {
   },
   run = run
 }
+--Dadach Namusan Esm Maro Napak :| #SikTirMirza
