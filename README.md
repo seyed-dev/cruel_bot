@@ -1,6 +1,5 @@
-# CRUEL Bot
-The best source based on New tg-cli
-telegram bot
+# Microsys Bot
+Based On Cruel Bot By Tg 1.5.1
 
 آموزش نصب
 
@@ -15,21 +14,21 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrade
 sudo ppa-purge
 
-git clone https://github.com/CRUELTM/cruel_bot.git
+git clone https://github.com/siktirmirza/microsys-c
 
 
-cd cruel_bot
+cd microsys-c
 chmod +x install
 ./install
 
 ```
 
-* نوشته شده بر اساس تی جی جدید
-* قابلیت افزودن پلاگین
-* غیر قابل ادیت فایل های اصلی
-* هر پلاگینی که برای این سورس مینویسید باید اوپن شود
-* برای دریافت جدید ترین پلاگین ها میتوانید به کانال تیم کرول مراجعه کنید
-[CRUEL TEAM | کانال تیم کرول](https://telegram.me/cruel_team)
+*نوشته شده بر اساس تیجی جدید
+*Tdcli و bot.lua غیر قابل ادیتند
+*پلاگین های جدید همینجا گذاشته میشوند
+*وقتی پلاگین های جدید نوشتیم در کانال اعلام مینماییم
+
+[ThinkTeam (Our Channel)](https://telegram.me/ThinkTeam)
 
 #دستورات
 ###locks
@@ -54,21 +53,10 @@ chmod +x install
 >!setowner  --by reply or id
 
 
-<h1>نوشته شده توسط اعضای تیم کرول</h1>
-برنامه نویس اصلی : [😍● ოɨℓﾑの ●😍](https://telegram.me/my_Iove_fatemeh)
-#تیم ما
-[M.KH](https://telegram.me/IT_MKH)
+<h1>بیس روبات نوشته شده توسط تیم کرول</h1>
+<h1>توسعه توسط تیم تینک</h1>
+#Developers :
+[#SikTirMirza(Amu Ali)](https://telegram.me/ShopBuy)
+[#Mr_Live](https://telegram.me/Mr_Live)
 
-[ค๓เг](https://telegram.me/This_Is_Amir)
-
-[Negative](https://telegram.me/Negative)
-
-[Haydra #Boy](https://telegram.me/HaydraBoy)
-
-｡∵ * ❁ ๓คђlค ❁* ∵ ｡
-
-🇸.🇴.🇱.🇹.🇦.🇳
-
-ოძ.ɾεzმ
-
-☜☆☞zคђгค☜☆☞
+Thanks For Read :D
