@@ -14,7 +14,7 @@ pm = pm..'\n ⚙<b>Mute Voice</b> : '..(group[tostring(target)]['settings']['mut
 pm = pm..'\n ⚙<b>Mute Document</b> : '..(group[tostring(target)]['settings']['mute_document'] or 'no')..'⚙'
 pm = pm..'\n ⚙<b>Mute Audio</b> : '..(group[tostring(target)]['settings']['mute_audio'] or 'no')..'⚙'
 pm = pm..'\n ⚙<b>Mute Gif</b> : '..(group[tostring(target)]['settings']['mute_gif'] or 'no')..'⚙'
-pm = pm..'\n<b>  create by cruel</b>'
+pm = pm..'\n<b>🔰 MicroSys Anti Spam Bot V 1.7</b>'
 tg.sendMessage(msg.chat_id_, 0, 1, pm, 1, 'html')
 end
 local function lock_group_links(msg, target)
@@ -347,7 +347,7 @@ pm = pm..'\n ⚙<b>Mute Voice</b> : '..group[tostring(target)]['settings']['mute
 pm = pm..'\n ⚙<b>Mute Document</b> : '..group[tostring(target)]['settings']['mute_document']..'⚙'
 pm = pm..'\n ⚙<b>Mute Audio</b> : '..group[tostring(target)]['settings']['mute_audio']..'⚙'
 pm = pm..'\n ⚙<b>Mute Gif</b> : '..group[tostring(target)]['settings']['mute_gif']..'⚙'
-pm = pm..'\n<b>  create by cruel</b>'
+pm = pm..'\n<b>🔰 MicroSys Anti Spam Bot V 1.7</b>'
 tg.sendMessage(msg.chat_id_, 0, 1, pm, 1, 'html')
 end
 local function run(msg, matches)
