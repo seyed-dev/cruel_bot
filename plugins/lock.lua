@@ -127,12 +127,12 @@ local function lock_group_spam(msg, target)
 local group = load_data('bot/group.json')
   local group_spam_lock = group[tostring(target)]['settings']['lock_spam']
   if group_spam_lock == 'yes' then
-    pm = 'قفل اسپم غیر فعال بوده است.'
+    pm = 'قفل اسپم فعال بوده است.'
 tg.sendMessage(msg.chat_id_, 0, 1, pm, 1, 'html')
   else
     group[tostring(target)]['settings']['lock_spam'] = 'yes'
     save_data(_config.group.data, group)
-    pm= 'قفل اسپم غیر فعال شد.'
+    pm= 'قفل اسپم فعال شد.'
 tg.sendMessage(msg.chat_id_, 0, 1, pm, 1, 'html')
   end
 end
