@@ -113,6 +113,7 @@ chmod +x install
 
 [![https://telegram.me/This_Is_Amir](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Amir-blue.svg)](https://telegram.me/This_Is_Amir) [![https://telegram.me/Negative](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Negativ-blue.svg)](https://telegram.me/Negative) 
 
-[![https://telegram.me/HaydraBoy](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Mosy-blue.svg)](https://telegram.me/HaydraBoy) -[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Mahla-blue.svg)](https://telegram.me/HaydraBoy)
+[![https://telegram.me/HaydraBoy](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Mosy-blue.svg)](https://telegram.me/HaydraBoy) [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Mahla-blue.svg)](https://telegram.me/HaydraBoy)
 
-[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-soltan-blue.svg)](https://telegram.me/CRUEL_TEAM) [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.Reaza-blue.svg)](https://telegram.me/CRUEL_TEAM)[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Zahra-blue.svg)](https://telegram.me/CRUEL_TEAM)
+[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-soltan-blue.svg)](https://telegram.me/CRUEL_TEAM) [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.Reaza-blue.svg)](https://telegram.me/CRUEL_TEAM)
+[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Zahra-blue.svg)](https://telegram.me/CRUEL_TEAM)
