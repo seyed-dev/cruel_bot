@@ -32,26 +32,71 @@ chmod +x install
 [CRUEL TEAM | کانال تیم کرول](https://telegram.me/cruel_team)
 
 #دستورات
+
+###add
+>[#!/]add
+>>[#!/]rem
+
+
 ###locks
->!lock (links,edit,fwd,username,spam)
->>!lock links
+>[#!/]lock (links,edit,fwd,username,spam)
+>>[#!/]lock links
 
 
 ###mutes
->!mute (all,photo,document,gif,audio,voice,video)
->>!mute all
+>[#!/]mute (all,photo,document,gif,audio,voice,video)
+>>[#!/]mute all
 
 
 ###settings
->!settings
+>[#!/]settings
 
 
 ###promote and demote
->!promote  --by reply or id
->>!demote  --by reply or id
+>[#!/]promote  --by reply or id
+>>[#!/]demote  --by reply or id
+
 
 ###set owner
->!setowner  --by reply or id
+>[#!/]setowner  --by reply or id
+
+
+###import
+>[#!/]import https://telegram.me/joinchat/
+
+
+###botname
+>[#!/]setbotname firstname lastname
+
+
+###botusername
+>[#!/]setbotusername (username)
+>>[#!/]rembotusername
+
+
+###botphoto
+>[#!/]setbotphoto
+>>Photo
+
+
+###markread
+>[#!/]markread (on,off)
+
+
+###pin
+>[#!/]pin --reply
+>>[#!/]unpin
+
+
+###plugins
+>[#!/]plugins 
+>>[#!/]plugins + (plugins)
+>>[#!/]plugins - (plugins)
+
+
+###bc
+>[#!/]bc (id) (Message)
+
 
 
 <h1>نوشته شده توسط اعضای تیم کرول</h1>
