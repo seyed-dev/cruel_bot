@@ -105,9 +105,12 @@ chmod +x install
 >[#!/]bc (id) (Message)
 
 
+#Developers
+-------
+[![https://telegram.me/my_Iove_fatemeh](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MILAD-blue.svg)](https://telegram.me/my_Iove_fatemeh) & [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/IT_MKH)
 
-[![https://telegram.me/my_Iove_fatemeh](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MILAD-blue.svg)](https://telegram.me/my_Iove_fatemeh) - [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/IT_MKH)
 #Our Team
+-------
 [![https://telegram.me/my_Iove_fatemeh](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MILAD-blue.svg)](https://telegram.me/my_Iove_fatemeh)  [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/IT_MKH)
 
 
