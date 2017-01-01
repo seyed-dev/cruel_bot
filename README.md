@@ -36,7 +36,9 @@ chmod +x install
 [CRUEL TEAM | کانال تیم کرول](https://telegram.me/cruel_team)
 * برای خرید سرور به سایت زیر مراجعه کنید
 [ELHOSTING.HOST](elhosting.host)
-#دستورات
+
+
+#Commands
 
 ###add
 >[#!/]add
