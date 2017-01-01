@@ -106,16 +106,12 @@ chmod +x install
 
 
 
-<h1>نوشته شده توسط اعضای تیم کرول</h1>
-برنامه نویس اصلی : [😍● ოɨℓﾑの ●😍](https://telegram.me/my_Iove_fatemeh)
-#تیم ما
-[M.KH](https://telegram.me/IT_MKH)
+[![https://telegram.me/my_Iove_fatemeh](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MILAD-blue.svg)](https://telegram.me/my_Iove_fatemeh) - [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/IT_MKH)
+#Our Team
+[![https://telegram.me/my_Iove_fatemeh](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MILAD-blue.svg)](https://telegram.me/my_Iove_fatemeh) - [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/IT_MKH)
+[![https://telegram.me/This_Is_Amir](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Amir-blue.svg)](https://telegram.me/This_Is_Amir) - [![https://telegram.me/Negative](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Negativ-blue.svg)](https://telegram.me/Negative)
 
-[ค๓เг](https://telegram.me/This_Is_Amir)
-
-[Negative](https://telegram.me/Negative)
-
-[Haydra #Boy](https://telegram.me/HaydraBoy)
+[![https://telegram.me/HaydraBoy](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Mosy-blue.svg)](https://telegram.me/HaydraBoy)
 
 ｡∵ * ❁ ๓คђlค ❁* ∵ ｡
 
