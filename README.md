@@ -2,7 +2,11 @@
 The best source based on New tg-cli
 telegram bot
 
-آموزش نصب
+ [![https://telegram.me/joinchat/C18EiUGNqWAxa6nr1dpC5A](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Support_FA-blue.svg)](https://telegram.me/joinchat/C18EiUGNqWAxa6nr1dpC5A)
+
+
+Tnx by [A simple Lua library for the telegram-cli](https://github.com/rizaumami/tdcli.lua)
+#INSTALL
 
 ```sh
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev ppa-purge python3-pip python3-dev
@@ -30,7 +34,8 @@ chmod +x install
 * هر پلاگینی که برای این سورس مینویسید باید اوپن شود
 * برای دریافت جدید ترین پلاگین ها میتوانید به کانال تیم کرول مراجعه کنید
 [CRUEL TEAM | کانال تیم کرول](https://telegram.me/cruel_team)
-
+* برای خرید سرور به سایت زیر مراجعه کنید
+[ELHOSTING.HOST](elhosting.host)
 #دستورات
 
 ###add
