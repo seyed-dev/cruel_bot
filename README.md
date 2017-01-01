@@ -28,14 +28,6 @@ chmod +x install
 
 ```
 
-* نوشته شده بر اساس تی جی جدید
-* قابلیت افزودن پلاگین
-* غیر قابل ادیت فایل های اصلی
-* هر پلاگینی که برای این سورس مینویسید باید اوپن شود
-* برای دریافت جدید ترین پلاگین ها میتوانید به کانال تیم کرول مراجعه کنید
-[CRUEL TEAM | کانال تیم کرول](https://telegram.me/cruel_team)
-* برای خرید سرور به سایت زیر مراجعه کنید
-[ELHOSTING.HOST](elhosting.host)
 
 
 #Commands
@@ -121,3 +113,7 @@ chmod +x install
 [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-soltan-blue.svg)](https://telegram.me/CRUEL_TEAM) [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.Reaza-blue.svg)](https://telegram.me/CRUEL_TEAM)
 
 [![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Zahra-blue.svg)](https://telegram.me/CRUEL_TEAM)
+
+#CRUEL Telegram Channel
+---
+[![https://telegram.me/CRUEL_TEAM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-CRUEL Team-blue.svg)](https://telegram.me/CRUEL_TEAM)
