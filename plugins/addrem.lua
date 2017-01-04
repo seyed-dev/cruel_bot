@@ -1,6 +1,6 @@
 local function addgroup(msg)
 local group = load_data('bot/group.json')
-local groupa = group[tostring('groups')][tostring(msg.chat_id)]
+local groupa = group[tostring(msg.chat_id)]
 if not groupa then
 group[tostring(msg.chat_id)] = {
         group_type = 'SuperGroup',
@@ -27,8 +27,6 @@ mute_audio = "no"
                   }
       }
       save_data(_config.group.data, group)
-group[tostring('groups')][tostring(msg.chat_id)] = msg.chat_id
-		save_data(_config.group.data, group)
 tg.sendMessage(msg.chat_id, msg.id_, 1, 'گروه با موفقیت اضافه شد.', 1)
 else
 tg.sendMessage(msg.chat_id, msg.id_, 1, 'گروه از قبل در وجود دارد..', 1)
@@ -36,12 +34,10 @@ end
 end
 local function remgroup(msg)
 local group = load_data('bot/group.json')
-local groupa = group[tostring('groups')][tostring(msg.chat_id)]
+local groupa = group[tostring(msg.chat_id)]
 if groupa then
 group[tostring(msg.chat_id)] = nil
       save_data(_config.group.data, group)
-group[tostring('groups')][tostring(msg.chat_id)] = nil
-save_data(_config.group.data, group)
 tg.sendMessage(msg.chat_id, msg.id_, 1, 'گروه با موفیت حذف شد.', 1)
 else
 tg.sendMessage(msg.chat_id, msg.id_, 1, 'گروه از قبل وجود نداشته است.', 1)
