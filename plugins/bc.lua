@@ -6,8 +6,8 @@ local function run(msg, matches)
 	if matches[1] == 'broadcast' and is_sudo(msg) then
 		local group = load_data(_config.group.data)
 		local text = matches[2]
-			for k,v in pairs(group[tostring('groups')]) do
-				tg.sendMessage(v, 0, 0,  text, 0)
+			for k,v in pairs(group) do
+				tg.sendMessage(k, 0, 0,  text, 0)
 			end
 	end
 end
