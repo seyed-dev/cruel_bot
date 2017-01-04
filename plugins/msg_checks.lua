@@ -1,10 +1,10 @@
 local function run(msg, matches)
-local addgroup = group[tostring(msg.chat_id)]
+local group = load_data('bot/group.json')
+local addgroup = group[tostring('groups')][tostring(msg.chat_id)]
 if addgroup then
 if is_momod(msg) or is_robot(msg) then
 return false
 else
-local group = load_data('bot/group.json')
 local group_mute_all = group[tostring(msg.chat_id)]['settings']['mute_all']
 if group_mute_all == 'yes' then
 tg.deleteMessages(msg.chat_id_, {[0] = msg.id_ })
