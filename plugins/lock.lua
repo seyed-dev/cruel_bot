@@ -1,22 +1,3 @@
-local function settings(msg, target,group)
-local group = load_data('bot/group.json')
-pm = '🔧SuperGroup settings 🔧'
-pm = pm..'\n ⚙<b>Lock Links</b> : '..group[tostring(target)]['settings']['lock_link']..'⚙'
-pm = pm..'\n ⚙<b>Lock Username</b> : '..(group[tostring(target)]['settings']['lock_username'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Lock Edit</b> : '..group[tostring(target)]['settings']['lock_edit']..'⚙'
-pm = pm..'\n ⚙<b>Lock Fwd</b> : '..(group[tostring(target)]['settings']['lock_fwd'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Lock Spam</b> : '..(group[tostring(target)]['settings']['lock_spam'] or 'no')..'⚙'
-pm = pm..'\n     🔧<b>Mute</b>🔧'
-pm = pm..'\n ⚙<b>Mute All</b> : '..(group[tostring(target)]['settings']['mute_all'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Mute Photo</b> : '..(group[tostring(target)]['settings']['mute_photo'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Mute Video</b> : '..(group[tostring(target)]['settings']['mute_video'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Mute Voice</b> : '..(group[tostring(target)]['settings']['mute_voice'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Mute Document</b> : '..(group[tostring(target)]['settings']['mute_document'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Mute Audio</b> : '..(group[tostring(target)]['settings']['mute_audio'] or 'no')..'⚙'
-pm = pm..'\n ⚙<b>Mute Gif</b> : '..(group[tostring(target)]['settings']['mute_gif'] or 'no')..'⚙'
-pm = pm..'\n<b>  create by cruel</b>'
-tg.sendMessage(msg.chat_id_, 0, 1, pm, 1, 'html')
-end
 local function lock_group_links(msg, target)
 local group = load_data('bot/group.json')
   local group_link_lock = group[tostring(target)]['settings']['lock_link']
@@ -351,6 +332,7 @@ pm = pm..'\n<b>  create by cruel</b>'
 tg.sendMessage(msg.chat_id_, 0, 1, pm, 1, 'html')
 end
 local function run(msg, matches)
+local group = load_data('bot/group.json')
 local addgroup = group[tostring(msg.chat_id)]
 if addgroup and is_momod(msg) then
 if matches[1] == 'settings'  then
